@@ -1,0 +1,2 @@
+Copyright Jian Zhou, and multiple authors.
+Distributed under the terms of the GNU General Public License version 2.
