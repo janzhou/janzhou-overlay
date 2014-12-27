@@ -16,6 +16,5 @@ RDEPEND="
 	dev-texlive/texlive-publishers
 	dev-texlive/texlive-science
 	dev-texlive/texlive-xetex
-	app-text/dvipdfm
-	app-text/dvipdfmx
+	dev-tex/biblatex
 	"
