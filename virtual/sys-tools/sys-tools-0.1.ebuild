@@ -14,16 +14,20 @@ KEYWORDS="*"
 IUSE=""
 
 DEPEND="
+app-admin/sudo
+app-arch/unrar
+app-editors/vim
+app-misc/screen
+app-portage/elogv
+app-portage/gentoolkit
+app-portage/layman
+app-vim/taglist
+dev-util/ccache
 media-sound/alsa-utils
 net-misc/dhcpcd
 sys-boot/grub
 sys-fs/btrfs-progs
 sys-fs/encfs
 sys-kernel/linux-firmware
-dev-util/ccache
-app-admin/sudo
-app-editors/vim
-app-misc/screen
-app-portage/layman
 "
 RDEPEND="${DEPEND}"
