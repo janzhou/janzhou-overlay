@@ -17,7 +17,6 @@ DEPEND="
 app-i18n/fcitx[gtk,gtk3,qt4]
 app-i18n/fcitx-cloudpinyin
 app-i18n/fcitx-configtool
-app-i18n/fcitx-googlepinyin
 app-i18n/fcitx-table-extra
 x11-base/xorg-server
 x11-misc/arandr
