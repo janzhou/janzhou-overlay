@@ -15,4 +15,5 @@ RDEPEND="
 	>=dev-lang/R-3.1.2[png]
 	dev-lang/go
 	dev-java/javacc
+	>=app-text/pandoc-1.12.3
 	"
