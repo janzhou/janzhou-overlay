@@ -21,4 +21,6 @@ RDEPEND="
 	virtual/cblas
 	virtual/lapack
 	dev-libs/libaio
+	sci-libs/scipy
+	dev-python/ipython
 	"
