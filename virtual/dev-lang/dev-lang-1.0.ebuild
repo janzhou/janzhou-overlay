@@ -17,4 +17,7 @@ RDEPEND="
 	dev-java/javacc
 	>=app-text/pandoc-1.12.3
 	dev-java/maven-bin
+	virtual/blas
+	virtual/cblas
+	virtual/lapack
 	"
