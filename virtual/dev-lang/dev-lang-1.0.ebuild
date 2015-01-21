@@ -20,4 +20,5 @@ RDEPEND="
 	virtual/blas
 	virtual/cblas
 	virtual/lapack
+	dev-libs/libaio
 	"
