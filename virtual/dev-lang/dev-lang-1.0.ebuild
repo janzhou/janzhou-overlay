@@ -16,4 +16,5 @@ RDEPEND="
 	dev-lang/go
 	dev-java/javacc
 	>=app-text/pandoc-1.12.3
+	dev-java/maven-bin
 	"
