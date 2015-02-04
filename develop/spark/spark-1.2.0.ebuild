@@ -13,6 +13,5 @@ DEPEND=""
 RDEPEND="
 	=dev-lang/scala-2.10.4
 	=dev-java/maven-bin-3.2.5
-	virtual/jdk
-	virtual/jre
+	develop/java
 	"
