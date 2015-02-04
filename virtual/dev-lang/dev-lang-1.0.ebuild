@@ -11,16 +11,9 @@ IUSE=""
 
 DEPEND=""
 RDEPEND="
-	dev-lang/scala
 	>=dev-lang/R-3.1.2[png]
 	dev-lang/go
-	dev-java/javacc
 	>=app-text/pandoc-1.12.3
-	dev-java/maven-bin
-	virtual/blas
-	virtual/cblas
-	virtual/lapack
 	dev-libs/libaio
-	sci-libs/scipy
 	dev-python/ipython
 	"
