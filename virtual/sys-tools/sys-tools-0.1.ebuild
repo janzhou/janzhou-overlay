@@ -24,7 +24,6 @@ app-portage/layman
 app-vim/taglist
 dev-util/ccache
 media-sound/alsa-utils
-net-misc/dhcpcd
 sys-boot/grub
 sys-fs/btrfs-progs
 sys-fs/encfs
