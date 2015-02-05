@@ -17,4 +17,5 @@ RDEPEND="
 	dev-texlive/texlive-science
 	dev-texlive/texlive-xetex
 	dev-tex/biblatex
+	dev-tex/detex
 	"

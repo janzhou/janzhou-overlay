@@ -13,7 +13,11 @@ DEPEND=""
 RDEPEND="
 	>=dev-lang/R-3.1.2[png]
 	dev-lang/go
-	>=app-text/pandoc-1.12.3
 	dev-libs/libaio
 	dev-python/ipython
+	dev-lang/ruby
+	dev-libs/protobuf
+	dev-python/pexpect
+	dev-python/sphinx
+	net-libs/nodejs
 	"

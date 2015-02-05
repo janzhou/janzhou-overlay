@@ -16,5 +16,7 @@ IUSE=""
 DEPEND="
 dev-vcs/git
 dev-vcs/mercurial
+dev-vcs/git-cola
+dev-vcs/git-flow
 "
 RDEPEND="${DEPEND}"

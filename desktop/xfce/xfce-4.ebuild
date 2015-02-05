@@ -28,5 +28,6 @@ xfce-extra/xfce4-power-manager
 xfce-extra/xfce4-screenshooter
 xfce-extra/xfce4-taskmanager
 network/console
+net-misc/wicd
 "
 RDEPEND="${DEPEND}"

@@ -16,5 +16,7 @@ IUSE=""
 DEPEND="
 www-client/chromium
 www-plugins/chrome-binary-plugins
+net-im/skype
+net-misc/dropbox-cli
 "
 RDEPEND="${DEPEND}"
